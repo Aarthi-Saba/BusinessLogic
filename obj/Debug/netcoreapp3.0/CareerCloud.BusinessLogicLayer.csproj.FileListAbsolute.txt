@@ -1,0 +1,13 @@
+C:\Users\drabi\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.0\CareerCloud.BusinessLogicLayer.deps.json
+C:\Users\drabi\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.0\CareerCloud.BusinessLogicLayer.dll
+C:\Users\drabi\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.0\CareerCloud.BusinessLogicLayer.pdb
+C:\Users\drabi\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.dll
+C:\Users\drabi\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.0\CareerCloud.Pocos.dll
+C:\Users\drabi\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.pdb
+C:\Users\drabi\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.0\CareerCloud.Pocos.pdb
+C:\Users\drabi\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.0\CareerCloud.BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\drabi\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.0\CareerCloud.BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\drabi\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.0\CareerCloud.BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\drabi\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.0\CareerCloud.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\drabi\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.0\CareerCloud.BusinessLogicLayer.dll
+C:\Users\drabi\source\repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.0\CareerCloud.BusinessLogicLayer.pdb
