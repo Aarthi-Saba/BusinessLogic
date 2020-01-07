@@ -29,7 +29,7 @@ namespace CareerCloud.BusinessLogicLayer
                 if(poco.CompletionDate < poco.StartDate)
                 {
                     exceptionslist.Add(new ValidationException((int)ErrorCodes.ComDate_Less_SrtDate,
-                        $"Completion Date {poco.CompletionDate} cannot be earlier than Start Date"));
+                        $"Completion Date {poco.CompletionDate} cannot be earlier than Start Date {poco.StartDate}"));
                 }
             }
             if(exceptionslist.Count > 0)
